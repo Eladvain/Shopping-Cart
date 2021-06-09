@@ -1,0 +1,19 @@
+﻿  adressM.cpp
+  appSystemM.cpp
+c:\users\tal haziza\desktop\שנה ב- סמסטר א\פרויקט חדש c++\after template\sellingproject\subbmitlast\sellingproject\appsystemm.cpp(795): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\tal haziza\desktop\שנה ב- סמסטר א\פרויקט חדש c++\after template\sellingproject\subbmitlast\sellingproject\appsystemm.cpp(1081): warning C4101: 'nameCurr': unreferenced local variable
+  consumerAndSeller.cpp
+  consumerM.cpp
+  feedback.cpp
+  main.cpp
+  orderM.cpp
+  productM.cpp
+c:\users\tal haziza\desktop\שנה ב- סמסטר א\פרויקט חדש c++\after template\sellingproject\subbmitlast\sellingproject\productm.cpp(86): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  sellerM.cpp
+c:\users\tal haziza\desktop\שנה ב- סמסטר א\פרויקט חדש c++\after template\sellingproject\subbmitlast\sellingproject\sellerm.cpp(55): warning C4267: 'return': conversion from 'size_t' to 'const int', possible loss of data
+  shoppingCart.cpp
+  user.cpp
+  Generating Code...
+c:\users\tal haziza\desktop\שנה ב- סמסטר א\פרויקט חדש c++\after template\sellingproject\subbmitlast\sellingproject\sellerm.cpp(55): warning C4172: returning address of local variable or temporary
+c:\users\tal haziza\desktop\שנה ב- סמסטר א\פרויקט חדש c++\after template\sellingproject\subbmitlast\sellingproject\consumerm.cpp(37): warning C4172: returning address of local variable or temporary: newFeedback
+  sellingproject.vcxproj -> C:\Users\tal haziza\Desktop\שנה ב- סמסטר א\פרויקט חדש C++\after template\sellingproject\subbmitLast\x64\Debug\sellingproject.exe
